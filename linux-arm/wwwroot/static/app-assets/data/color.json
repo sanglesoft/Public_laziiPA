@@ -1,0 +1,214 @@
+﻿{
+  "results": [
+    {
+      "text": "Red #aa2e25",
+      "id": "aa2e25"
+    },
+    {
+      "text": "Red #f44336",
+      "id": "f44336"
+    },
+    {
+      "text": "Red #f6685e",
+      "id": "f6685e"
+    },
+
+    {
+      "text": "Pink #a31545",
+      "id": "a31545"
+    },
+    {
+      "text": "Pink #e91e63",
+      "id": "e91e63"
+    },
+    {
+      "text": "Pink #ed4b82",
+      "id": "ed4b82"
+    },
+
+    {
+      "text": "Puple #6d1b7b",
+      "id": "6d1b7b"
+    },
+    {
+      "text": "Puple #9c27b0",
+      "id": "9c27b0"
+    },
+    {
+      "text": "Puple #af52bf",
+      "id": "af52bf"
+    },
+
+    {
+      "text": "Deep Puple #482880",
+      "id": "482880"
+    },
+    {
+      "text": "Deep Puple #673ab7",
+      "id": "673ab7"
+    },
+    {
+      "text": "Deep Puple #8561c5",
+      "id": "8561c5"
+    },
+
+    {
+      "text": "Indigo #2c387e",
+      "id": "2c387e"
+    },
+    {
+      "text": "Indigo #3f51b5",
+      "id": "3f51b5"
+    },
+    {
+      "text": "Indigo #6573c3",
+      "id": "6573c3"
+    },
+
+    {
+      "text": "Blue #1769aa",
+      "id": "1769aa"
+    },
+    {
+      "text": "Blue #2196f3",
+      "id": "2196f3"
+    },
+    {
+      "text": "Blue #4dabf5",
+      "id": "4dabf5"
+    },
+
+    {
+      "text": "Light Blue #0276aa",
+      "id": "0276aa"
+    },
+    {
+      "text": "Light Blue #03a9f4",
+      "id": "03a9f4"
+    },
+    {
+      "text": "Light Blue #35baf6",
+      "id": "35baf6"
+    },
+
+    {
+      "text": "Cyan #008394",
+      "id": "008394"
+    },
+    {
+      "text": "Cyan #00bcd4",
+      "id": "00bcd4"
+    },
+    {
+      "text": "Cyan #33c9dc",
+      "id": "33c9dc"
+    },
+
+    {
+      "text": "Teal #00695f",
+      "id": "00695f"
+    },
+    {
+      "text": "Teal #009688",
+      "id": "009688"
+    },
+    {
+      "text": "Teal #33ab9f",
+      "id": "33ab9f"
+    },
+
+    {
+      "text": "Green #357a38",
+      "id": "357a38"
+    },
+    {
+      "text": "Green #4caf50",
+      "id": "4caf50"
+    },
+    {
+      "text": "Green #6fbf73",
+      "id": "6fbf73"
+    },
+
+    {
+      "text": "Light Green #618833",
+      "id": "618833"
+    },
+    {
+      "text": "Light Green #8bc34a",
+      "id": "8bc34a"
+    },
+    {
+      "text": "Light Green #a2cf6e",
+      "id": "a2cf6e"
+    },
+
+    {
+      "text": "Lime #8f9a27",
+      "id": "8f9a27"
+    },
+    {
+      "text": "Lime #cddc39",
+      "id": "cddc39"
+    },
+    {
+      "text": "Lime #d7e360",
+      "id": "d7e360"
+    },
+
+    {
+      "text": "Yelow #b2a429",
+      "id": "b2a429"
+    },
+    {
+      "text": "Yelow #ffeb3b",
+      "id": "ffeb3b"
+    },
+    {
+      "text": "Yelow #ffef62",
+      "id": "ffef62"
+    },
+
+    {
+      "text": "Amber #b28704",
+      "id": "b28704"
+    },
+    {
+      "text": "Amber #ffc107",
+      "id": "ffc107"
+    },
+    {
+      "text": "Amber #ffcd38",
+      "id": "ffcd38"
+    },
+
+    {
+      "text": "Orange #b26a00",
+      "id": "b26a00"
+    },
+    {
+      "text": "Orange #ff9800",
+      "id": "ff9800"
+    },
+    {
+      "text": "Orange #ffac33",
+      "id": "ffac33"
+    },
+
+    {
+      "text": "Deep Orange #b23c17",
+      "id": "b23c17"
+    },
+    {
+      "text": "Deep Orange #ff5722",
+      "id": "ff5722"
+    },
+    {
+      "text": "Deep Orange #ff784e",
+      "id": "ff784e"
+    },
+  ],
+  "pagination": {
+    "more": false
+  }
+}
